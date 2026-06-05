@@ -17,7 +17,5 @@
 
 ---
 
-### 📊 Minhas Estatísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=M-00m0n&show_icons=true&theme=midnight-shake&hide_border=true&include_all_commits=true)
 
 </div>
